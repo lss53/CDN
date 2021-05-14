@@ -1,7 +1,7 @@
 {
-  "name": "tuimg",
+  "name": "bedimg",
   "version": "1.0.1",
-  "description": "静态资源",
+  "description": "static source",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +11,12 @@
     "url": "git+https://github.com/lss53/CDN.git"
   },
   "keywords": [
-    "床图"
+    "images"
   ],
   "author": "lss53",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lss53/CDN/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/lss53/CDN#readme"
+  "homepage": ""
 }
