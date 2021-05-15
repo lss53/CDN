@@ -1,6 +1,6 @@
 {
   "name": "bedimages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "static source",
   "main": "index.js",
   "scripts": {
