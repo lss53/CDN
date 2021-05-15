@@ -1,6 +1,6 @@
 {
-  "name": "bedimg",
-  "version": "1.0.3",
+  "name": "bedimages",
+  "version": "1.0.0",
   "description": "static source",
   "main": "index.js",
   "scripts": {
@@ -10,13 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/lss53/CDN.git"
   },
+  "files": [
+    "/img",
+    "/Photo"
+   ],
   "keywords": [
-    "images"
+    "img"
   ],
   "author": "lss53",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/lss53/CDN/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/lss53/CDN#readme"
 }
