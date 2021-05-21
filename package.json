@@ -1,6 +1,6 @@
 {
   "name": "bedimages",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "static source",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/lss53/CDN.git"
   },
   "files": [
-    "/images/210515-npm-cover.png"
+    "/img/210521*",
+    "/img/210515-npm-cover.png"
    ],
   "keywords": [
     "img"
